@@ -1,0 +1,29 @@
+Research Assistant Test Document
+
+This is a test document for the Research Assistant application. It contains information about artificial intelligence and machine learning concepts.
+
+Artificial Intelligence (AI) is a branch of computer science that aims to create intelligent machines that can work and react like humans. Some key areas of AI include:
+
+1. Machine Learning: Algorithms that improve automatically through experience
+2. Natural Language Processing: Helping computers understand human language
+3. Computer Vision: Teaching machines to interpret visual information
+4. Deep Learning: Neural networks with multiple layers for complex pattern recognition
+
+Machine Learning Algorithms:
+- Supervised Learning: Uses labeled training data
+- Unsupervised Learning: Finds patterns in data without labels
+- Reinforcement Learning: Learns through trial and error with rewards
+
+Applications of AI:
+- Healthcare: Medical diagnosis and drug discovery
+- Finance: Fraud detection and algorithmic trading
+- Transportation: Autonomous vehicles and traffic optimization
+- Education: Personalized learning and intelligent tutoring systems
+
+This document should help test the search functionality of the Research Assistant. When you ask questions about AI, machine learning, or any topics mentioned here, the system should be able to find relevant information from this document and combine it with web search results.
+
+Example questions to test:
+- What is machine learning?
+- How does supervised learning work?
+- What are applications of AI in healthcare?
+- Tell me about deep learning neural networks 
